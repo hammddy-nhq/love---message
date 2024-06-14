@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalized Love Message</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: #4682b4;
+        }
+        .message {
+            background-color: #fff8dc;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        .message p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Personalized Love Message</h1>
+    </header>
+    <main role="main">
+        <section class="message" aria-labelledby="message-title">
+            <h2 id="message-title">To My Beloved Husband</h2>
+            <p>
+                My dear Baby,
+            </p>
+            <p>
+                I wanted to take a moment to tell you how much you mean to me. Your kindness, strength, and love inspire me every day. I am so grateful to have you in my life, and I cherish every moment we share together. You are my rock, my confidant, and my best friend. I love you more than words can express.
+            i am dedicating my first code to you</p>
+            <p>
+                Yours forever,
+                <br>
+                hammdy
+            </p>
+        </section>
+    </main>
+    <footer role="contentinfo">
+        <p>&copy; 2024 Personalized Love Message</p>
+    </footer>
+</body>
+</html>
